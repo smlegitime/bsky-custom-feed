@@ -6,6 +6,10 @@ Creating an accessible feed generator on top of Bluesky.
 - Pros: Offers a variety of features, including custom moderation rules and an analytics dashboard.
 - Cons: Priced, BUT has a free tier. [Pricing details](https://blueskyfeedcreator.com/pricing)
 
+## Possible enhancements 🤷🏾‍♀️
+- Auto moderator: YAML generator for auto moderation rules
+- Multiple languages support
+
 ## Requirements
 Definition of the system from the user's perspective. 
 - Audience: Bluesky users. Includes non-technical and technical members.
